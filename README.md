@@ -1,4 +1,4 @@
-# Mental-Health-ChatBot
+# BrainTalk: Mental Health ChatBot
 ## Overview
 This Mental Health Support Chatbot is designed to provide users with a safe, empathetic space to talk about their mental well-being. The chatbot offers emotional support, responds to users' queries, and provides resources or coping mechanisms based on the input it receives. Built with **HTML**, **CSS**, and the **OpenAI API**, this project aims to create a user-friendly and accessible platform for mental health support.
 
